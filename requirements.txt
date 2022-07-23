@@ -1,0 +1,9 @@
+Django
+djangorestframework
+pytest
+pytest-django
+pytest-cov
+mixer
+mock
+setuptools
+factory_boy
